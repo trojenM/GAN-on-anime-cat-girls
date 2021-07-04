@@ -6,16 +6,14 @@ Created on Tue Jun 29 01:53:28 2021
 """
 
 import matplotlib.pyplot as plt
-import torch
 import cv2
 import os
 import numpy as np
+import torch
 from torch import nn
 import torch.optim as opt
 import torch.nn.functional as F
 from customDataset import Catgirls
-import math
-import torchvision
 import torchvision.transforms as transforms
 
 
