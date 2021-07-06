@@ -13,6 +13,7 @@ Results:
 ![Alt text](result/0.png?raw=true "GRAYSCALE-1")
 ![Alt text](result/1.png?raw=true "GRAYSCALE-2")
 ![Alt text](result/3.png?raw=true "GRAYSCALE-3")
+![Alt text](result/2.png?raw=true "GRAYSCALE-4")
 ![Alt text](result/5.png?raw=true "RGB-1")
 ![Alt text](result/6.png?raw=true "RGB-2")
 ![Alt text](result/7.png?raw=true "RGB-3")
